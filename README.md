@@ -46,10 +46,10 @@ ForensIQ accepts raw case text (pasted or uploaded as `.txt`, `.pdf`, `.docx` fi
 
 ForensIQ follows the **User Input → Prompt Template → LLM → Structured Output** pipeline specified in the project guidelines.
 
-```
-<img width="2528" height="1682" alt="Gemini_Generated_Image_2njxb32njxb32njx" src="https://github.com/user-attachments/assets/7f7e0154-9933-4ab5-8779-9e894d32489b" />
 
-```
+<img width="2528" height="1682" alt="ForensIQ Architecture" src="https://github.com/user-attachments/assets/ebc4745f-75b1-42c6-a339-fb7625ea1736" />
+
+
 
 ### Module Breakdown
 
