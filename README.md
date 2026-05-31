@@ -47,40 +47,8 @@ ForensIQ accepts raw case text (pasted or uploaded as `.txt`, `.pdf`, `.docx` fi
 ForensIQ follows the **User Input → Prompt Template → LLM → Structured Output** pipeline specified in the project guidelines.
 
 ```
-                        +------------------+
-                        |   Streamlit UI   |
-                        |    (app.py)      |
-                        +--------+---------+
-                                 |
-                    +------------+------------+
-                    |                         |
-             Sidebar Input            Tab Selection
-           (text / file upload)    (analysis module)
-                    |                         |
-                    v                         v
-            +-------+-------+      +---------+---------+
-            |  Case Memory  |      |    Prompt Engine   |
-            |  (Python dict)|----->|   (prompts.py)     |
-            +---------------+      +---------+---------+
-                                             |
-                                             v
-                                   +---------+---------+
-                                   |    Groq LLM API   |
-                                   | (llama-3.3-70b)   |
-                                   +---------+---------+
-                                             |
-                                             v
-                                   +---------+---------+
-                                   |   JSON Parser &   |
-                                   |   Error Handler   |
-                                   |   (agent.py)      |
-                                   +---------+---------+
-                                             |
-                                             v
-                                   +---------+---------+
-                                   |  Structured Output |
-                                   |  (cards / tables)  |
-                                   +-------------------+
+<img width="2528" height="1682" alt="Gemini_Generated_Image_2njxb32njxb32njx" src="https://github.com/user-attachments/assets/7f7e0154-9933-4ab5-8779-9e894d32489b" />
+
 ```
 
 ### Module Breakdown
