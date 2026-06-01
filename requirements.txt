@@ -1,0 +1,19 @@
+# ForensIQ - AI-Powered Forensic Text Analysis Agent
+# Python 3.10+ required
+
+# --- UI Framework ---
+streamlit>=1.35.0
+
+# --- LLM SDK ---
+groq>=0.9.0
+
+# --- Environment & Config ---
+python-dotenv>=1.0.1
+
+# --- File Parsing ---
+python-docx>=1.1.0
+PyPDF2>=3.0.1
+
+# --- Utilities ---
+pandas>=2.2.0
+json5>=0.9.25
