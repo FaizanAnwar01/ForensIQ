@@ -1,0 +1,32 @@
+[
+  {
+    "statement_1": "Asad Mehmood stated he left the lab at 5:30 PM and did not return (Document 2)",
+    "statement_2": "Zara Qureshi stated Asad Mehmood was still in the lab at 7:00 PM (Document 3)",
+    "explanation_of_conflict": "These statements cannot both be true, indicating a discrepancy in Asad Mehmood's whereabouts after 5:30 PM."
+  },
+  {
+    "statement_1": "Asad Mehmood claimed his access card was lost and reported on 13 November 2024 (Document 2)",
+    "statement_2": "The RFID log shows Asad Mehmood's access card was used at 21:47 on 14 November 2024 (Document 1)",
+    "explanation_of_conflict": "If Asad Mehmood's card was indeed lost and reported, it's unclear how it was used later that day, suggesting either the report was falsified or the card was found and used by someone else."
+  },
+  {
+    "statement_1": "Asad Mehmood stated he received all four hard drives from PO-2024-309 and placed them in the equipment locker (Document 2)",
+    "statement_2": "Zara Qureshi mentioned they only needed two hard drives and didn't know why four were ordered (Document 3)",
+    "explanation_of_conflict": "The discrepancy between the number of hard drives received and the number needed raises questions about the handling of the procurement and the potential for theft or misplacement of the two missing hard drives."
+  },
+  {
+    "statement_1": "Hamza Tariq stated he left the lab at 6:15 PM and did not return to Lab 3B (Document 4)",
+    "statement_2": "Danish Raza, the security guard, saw Hamza Tariq enter the building at 9:40 PM and leave at 10:05 PM with a heavier backpack (Document 5)",
+    "explanation_of_conflict": "Hamza Tariq's statement about not returning to the lab contradicts the security guard's observation, suggesting Hamza Tariq may have been involved in the theft and was carrying the stolen items in his backpack."
+  },
+  {
+    "statement_1": "Sana Mir saw Asad Mehmood in the corridor outside Lab 3B at 7:30 PM (Document 6)",
+    "statement_2": "Asad Mehmood stated he did not return to the lab after 5:30 PM (Document 2)",
+    "explanation_of_conflict": "This sighting by Sana Mir contradicts Asad Mehmood's claim of not returning to the lab, placing him near the scene around the time of the potential theft."
+  },
+  {
+    "statement_1": "Sana Mir heard metallic scraping or clicking sounds from Lab 3B at around 9:50 PM (Document 6)",
+    "statement_2": "No other statements mention anyone being in the lab or hearing such sounds at that time",
+    "explanation_of_conflict": "The source of these sounds is unclear, but given the timing and the nature of the sounds, it could be related to the theft of the GPU cards, suggesting that the perpetrator might have been in the lab at this time."
+  }
+]
