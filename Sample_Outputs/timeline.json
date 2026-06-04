@@ -1,0 +1,200 @@
+[
+  {
+    "timestamp": "2024-10-22",
+    "event_description": "Purchase order PO-2024-309 for four 2TB external hard drives was approved",
+    "source": "Document 1",
+    "confidence_level": "high"
+  },
+  {
+    "timestamp": "2024-10-25",
+    "event_description": "University accounts confirmed payment was processed for PO-2024-309",
+    "source": "Document 1",
+    "confidence_level": "high"
+  },
+  {
+    "timestamp": "2024-10-28",
+    "event_description": "Delivery of four 2TB external hard drives was received by Asad Mehmood",
+    "source": "Document 2",
+    "confidence_level": "high"
+  },
+  {
+    "timestamp": "2024-11-13",
+    "event_description": "Asad Mehmood reported his access card as lost to the admin office",
+    "source": "Document 2",
+    "confidence_level": "high"
+  },
+  {
+    "timestamp": "2024-11-14T09:00",
+    "event_description": "Asad Mehmood arrived at work",
+    "source": "Document 2",
+    "confidence_level": "high"
+  },
+  {
+    "timestamp": "2024-11-14T13:00",
+    "event_description": "Hamza Tariq arrived in Lab 3B",
+    "source": "Document 4",
+    "confidence_level": "medium"
+  },
+  {
+    "timestamp": "2024-11-14T14:00",
+    "event_description": "Zara Qureshi arrived in Lab 3B",
+    "source": "Document 3",
+    "confidence_level": "medium"
+  },
+  {
+    "timestamp": "2024-11-14T16:30",
+    "event_description": "Hamza Tariq left Lab 3B",
+    "source": "Document 4",
+    "confidence_level": "high"
+  },
+  {
+    "timestamp": "2024-11-14T17:00",
+    "event_description": "Zara Qureshi left Lab 3B",
+    "source": "Document 3",
+    "confidence_level": "high"
+  },
+  {
+    "timestamp": "2024-11-14T17:30",
+    "event_description": "Sana Mir saw Asad Mehmood in the corridor outside Lab 3B",
+    "source": "Document 6",
+    "confidence_level": "medium"
+  },
+  {
+    "timestamp": "2024-11-14T20:00",
+    "event_description": "Security camera in corridor outside Lab 3B malfunctioned",
+    "source": "Document 1",
+    "confidence_level": "high"
+  },
+  {
+    "timestamp": "2024-11-14T20:03",
+    "event_description": "Security office logged the fault of the security camera",
+    "source": "Document 1",
+    "confidence_level": "high"
+  },
+  {
+    "timestamp": "2024-11-14T21:47",
+    "event_description": "Lab 3B was accessed using Asad Mehmood's access card",
+    "source": "Document 1",
+    "confidence_level": "high"
+  },
+  {
+    "timestamp": "2024-11-14T21:47",
+    "event_description": "Someone used Asad Mehmood's access card to enter Lab 3B",
+    "source": "Document 2",
+    "confidence_level": "high"
+  },
+  {
+    "timestamp": "2024-11-14T23:00",
+    "event_description": "Security camera in corridor outside Lab 3B malfunction ended",
+    "source": "Document 1",
+    "confidence_level": "high"
+  },
+  {
+    "timestamp": "2024-11-14 evenning",
+    "event_description": "Theft of two NVIDIA A100 GPU cards occurred",
+    "source": "Document 1",
+    "confidence_level": "low"
+  },
+  {
+    "timestamp": "2024-11-14T21:00-23:00",
+    "event_description": "Possible time frame for the theft of two NVIDIA A100 GPU cards",
+    "source": "Document 1",
+    "confidence_level": "low"
+  },
+  {
+    "timestamp": "2024-11-14T21:47-22:00",
+    "event_description": "Possible time frame for the theft of two NVIDIA A100 GPU cards",
+    "source": "Document 1",
+    "confidence_level": "low"
+  },
+  {
+    "timestamp": "2024-11-14T21:47",
+    "event_description": "The lab door was unlocked",
+    "source": "Document 1",
+    "confidence_level": "high"
+  },
+  {
+    "timestamp": "2024-11-14T21:47-22:00",
+    "event_description": "The thief may have used this time to steal the GPUs",
+    "source": "Document 1",
+    "confidence_level": "low"
+  },
+  {
+    "timestamp": "2024-11-14T21:50",
+    "event_description": "Sana Mir heard metallic scraping or clicking sounds from Lab 3B",
+    "source": "Document 6",
+    "confidence_level": "medium"
+  },
+  {
+    "timestamp": "2024-11-14T22:00",
+    "event_description": "Sana Mir stopped hearing the sounds",
+    "source": "Document 6",
+    "confidence_level": "medium"
+  },
+  {
+    "timestamp": "2024-11-14T20:00-23:00",
+    "event_description": "Security camera in corridor outside Lab 3B was malfunctioning",
+    "source": "Document 1",
+    "confidence_level": "high"
+  },
+  {
+    "timestamp": "2024-11-14T21:00",
+    "event_description": "Danish Raza started his shift as security guard",
+    "source": "Document 5",
+    "confidence_level": "high"
+  },
+  {
+    "timestamp": "2024-11-14T21:40",
+    "event_description": "Hamza Tariq entered the building",
+    "source": "Document 5",
+    "confidence_level": "medium"
+  },
+  {
+    "timestamp": "2024-11-14T22:05",
+    "event_description": "Hamza Tariq left the building with a backpack",
+    "source": "Document 5",
+    "confidence_level": "medium"
+  },
+  {
+    "timestamp": "2024-11-15T08:10",
+    "event_description": "Dr. Imran Siddiqui arrived at the lab and found it unlocked",
+    "source": "Document 1",
+    "confidence_level": "high"
+  },
+  {
+    "timestamp": "2024-11-15T08:10",
+    "event_description": "Dr. Imran Siddiqui discovered the theft of two NVIDIA A100 GPU cards",
+    "source": "Document 1",
+    "confidence_level": "high"
+  },
+  {
+    "timestamp": "2024-11-15T10:30",
+    "event_description": "Asad Mehmood gave his statement to Inspector Naveed Akhtar",
+    "source": "Document 2",
+    "confidence_level": "high"
+  },
+  {
+    "timestamp": "2024-11-15T11:15",
+    "event_description": "Zara Qureshi gave her statement to Inspector Naveed Akhtar",
+    "source": "Document 3",
+    "confidence_level": "high"
+  },
+  {
+    "timestamp": "2024-11-15T12:00",
+    "event_description": "Hamza Tariq gave his statement to Inspector Naveed Akhtar",
+    "source": "Document 4",
+    "confidence_level": "high"
+  },
+  {
+    "timestamp": "2024-11-15T09:00",
+    "event_description": "Danish Raza gave his statement to Inspector Naveed Akhtar",
+    "source": "Document 5",
+    "confidence_level": "high"
+  },
+  {
+    "timestamp": "2024-11-15T14:00",
+    "event_description": "Sana Mir gave her statement to Inspector Naveed Akhtar",
+    "source": "Document 6",
+    "confidence_level": "high"
+  }
+]
