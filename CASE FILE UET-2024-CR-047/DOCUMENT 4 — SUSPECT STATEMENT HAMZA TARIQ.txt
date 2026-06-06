@@ -1,0 +1,20 @@
+STATEMENT OF: Hamza Tariq
+Role: Final Year BE Student, CS Department
+Date of Statement: 15 November 2024, 12:00 PM
+Recorded by: Inspector Naveed Akhtar
+
+I visit Lab 3B regularly because my FYP supervisor Dr. Imran allows me to use spare
+compute time on the workstations. On 14 November 2024, I was in the lab from around
+1:00 PM and left at exactly 6:15 PM. I remember the time because I had a 6:30 PM
+call with my project partner.
+
+When I left, both Zara and Asad were still present. The GPUs in WS-04 were visible
+because the side panel was off for maintenance — Asad had told me earlier that day
+he was going to upgrade the cooling bracket. He had a screwdriver out on the desk.
+
+I came back to the building at around 9:30 PM because I forgot my charger in the
+student lounge on the ground floor, not in Lab 3B. I did not go upstairs to Lab 3B.
+I collected my charger and left by 9:45 PM.
+
+I have no access card for Lab 3B and have no idea how to remove GPU cards. I only
+do software work.
