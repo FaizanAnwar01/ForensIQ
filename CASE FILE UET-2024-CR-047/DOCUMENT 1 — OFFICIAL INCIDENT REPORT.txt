@@ -1,0 +1,32 @@
+INCIDENT REPORT
+Case No: UET-2024-CR-047
+Reporting Officer: Inspector Naveed Akhtar
+Date Filed: 15 November 2024
+
+SUMMARY OF INCIDENT:
+On the morning of 15 November 2024, Dr. Imran Siddiqui, supervisor of Research Lab 3B
+in Block C, UET Taxila, arrived at 08:10 AM to find the lab door unlocked and two NVIDIA
+A100 GPU cards missing from the research workstation designated WS-04. The GPU cards
+are university property, each valued at PKR 850,000 (total loss: PKR 1,700,000).
+
+Additionally, an audit triggered by the theft revealed a discrepancy in the lab's
+equipment procurement records. A purchase order (PO-2024-309) dated 22 October 2024
+was approved for four 2TB external hard drives at PKR 45,000 each (total: PKR 180,000).
+University accounts confirmed payment was processed on 25 October 2024. However, only
+two hard drives are physically present in the lab. No delivery receipt exists for the
+remaining two units.
+
+PHYSICAL EVIDENCE:
+- Lab door lock showed no signs of forced entry.
+- Internal RFID access log shows lab was accessed at 21:47 on 14 November 2024.
+  The access card used was registered to Asad Mehmood (Lab Technician).
+- The same RFID log shows the lab was next accessed at 08:10 AM on 15 November by
+  Dr. Imran Siddiqui.
+- WS-04 side panel was found open. Screwdriver marks present on GPU bracket.
+- Security camera in corridor outside Lab 3B malfunctioned between 20:00–23:00
+  on 14 November (fault logged by security office at 20:03).
+
+PERSONS OF INTEREST:
+1. Asad Mehmood — Lab Technician (card used for 21:47 access)
+2. Zara Qureshi — MS Research Student, assigned to WS-04
+3. Hamza Tariq — Final Year Project student, regular lab visitor
